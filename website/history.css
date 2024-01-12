@@ -1,0 +1,44 @@
+body{
+    background-image: src="images/freshbg.jpg"; 
+background-size: 100%;
+padding-left: 0;
+padding-right: 0;
+margin-left: 200px;
+padding-top: 0;
+background-color: black;
+}
+
+h1{
+    color: red; 
+    padding-top: 45px; 
+    padding-left:220px ;
+}
+
+h2{
+    background-color: black;
+    font-size: 1.2em;
+    padding-left: 3em;
+    padding-right: 2em;
+    padding-bottom: 10px;
+}
+p{
+    background-color: black;
+    font-size: 1.2em;
+    padding-left: 3em;
+    padding-right: 2em;
+    padding-bottom: 10px;
+}
+h4{
+    background-color: black;
+    font-size: 1.2em;
+    padding-left: 3em;
+    padding-right: 2em;
+    padding-bottom: 10px;
+}
+h3{
+    background-color: black;
+    font-size: 1.2em;
+    padding-left: 3em;
+    padding-right: 2em;
+    padding-bottom: 10px;
+}
